@@ -1,1 +1,1 @@
-# data-science-in-python
+# Python Data Science Specialization
